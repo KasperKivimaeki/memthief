@@ -1,0 +1,9 @@
+Dependencies:
+	make 
+	gcc
+
+Installing instructions:
+	sudo apt install make gcc
+	make
+	sudo make install
+
