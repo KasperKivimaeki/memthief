@@ -7,4 +7,4 @@ install:
 	cp memthief /usr/bin/
 
 clear: 
-	rm -f memThief
+	rm -f memthief
