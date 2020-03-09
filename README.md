@@ -1,5 +1,7 @@
-## Installing instructions:
+## Dependencies
 	sudo apt install make gcc
+
+## Installing instructions:
 	make
 	sudo make install
 

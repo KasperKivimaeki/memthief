@@ -6,5 +6,5 @@ main:
 install: 
 	cp memthief /usr/bin/
 
-clear: 
+clean: 
 	rm -f memthief
